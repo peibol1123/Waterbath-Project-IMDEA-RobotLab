@@ -41,7 +41,7 @@ Water Bath IMDEA CAD/
 
 ## Related Projects
 
-Additional related robotic gripper designs can be found in the Modular Semi-Soft Robotic Gripper repository.
+Additional related robotic gripper designs can be found in the  [Modular-Semi-Soft-Robotic-Gripper](https://github.com/peibol1123/Modular-Semi-Soft-Robotic-Gripper/tree/main)
 
 ## Acknowledgements
 

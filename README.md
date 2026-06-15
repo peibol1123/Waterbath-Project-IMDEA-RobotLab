@@ -12,7 +12,6 @@ The repository includes different mechanical parts designed to support the autom
 
 * FreeCAD files
 * STEP files
-* STL files for 3D printing
 * Waterbath-related mechanical components
 * Falcon tube accessories
 * Test tube trays and holders
